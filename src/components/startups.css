@@ -1,0 +1,46 @@
+.card-bodies {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.cont {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  min-height: 91vh;
+}
+.title {
+  display: flex;
+  color: white;
+  font-size: 400%;
+  text-transform: uppercase;
+  font-style: italic;
+  margin: 3%;
+  text-align: center;
+}
+.card-body {
+  margin: 10%;
+}
+.card-whole-content:hover {
+  box-shadow: 1px 1px 2px 2px gold;
+  transition: 1.5s;
+}
+.yellow {
+  color: yellow;
+}
+.card-image {
+  position: relative;
+}
+.card-whole-content {
+  background-color: #2b2b2b;
+  padding: 6%;
+  margin-top: 19%;
+  margin-right: 1%;
+}
+#object1 {
+  margin-left: 3%;
+  position: absolute;
+}
+.card-title {
+  margin-top: 15%;
+}

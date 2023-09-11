@@ -1,0 +1,15 @@
+.card-body {
+  display: flex;
+  flex-direction: column;
+
+  padding: 1%;
+}
+.yellow {
+  color: yellow;
+}
+.card-content {
+  color: white;
+}
+.card-title {
+  color: white;
+}

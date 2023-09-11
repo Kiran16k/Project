@@ -1,0 +1,13 @@
+.Main-Container-test {
+  background-color: black;
+}
+h6 {
+  color: whitesmoke;
+  font-size: 200%;
+}
+.Inner-Container-test {
+  background-color: cadetblue;
+  padding-top: 1%;
+  padding-left: 10%;
+  min-height: 90vh;
+}

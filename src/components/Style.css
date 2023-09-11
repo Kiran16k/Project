@@ -1,0 +1,74 @@
+.Container {
+  background-color: black;
+  min-height: 90vh;
+}
+
+.yellow {
+  color: yellow;
+}
+.white {
+  color: white;
+}
+h1 {
+  text-align: center;
+}
+.Navigationbar {
+  background-color: black;
+  display: flex;
+  border: 1px solid whitesmoke;
+}
+.Navigationbar a.active {
+  color: whitesmoke;
+}
+h4 {
+  color: white;
+}
+.inputbox {
+  margin-right: 5%;
+  padding: 0.2%;
+  color: whitesmoke;
+}
+aside {
+  float: left;
+  text-align: justify;
+  width: 40%;
+  margin: 1%;
+}
+/* footer {
+  border: 2px solid whitesmoke;
+} */
+.footerContainer {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 1%;
+}
+.Main-head {
+  font-style: italic;
+}
+.Container1 {
+  padding: 1%;
+}
+.foot-box {
+  border: 1px solid whitesmoke;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+#img-object {
+  margin-left: 10%;
+}
+#facebook-img {
+  background-image: url("./images/pile-3d-facebook-logos.jpg");
+  background-size: cover;
+}
+#insta-img {
+  background-image: url("./images/social-media-background-instagram.jpg");
+  background-size: cover;
+}
+#Link-img {
+  background-image: url("./images/3398219.jpg");
+  background-size: cover;
+}
+.footer-head {
+  color: white;
+  font-size: 150%;
+}

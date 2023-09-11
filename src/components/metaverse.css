@@ -1,0 +1,35 @@
+.Sub-Main {
+  display: flex;
+  flex-direction: column;
+
+  min-height: 90vh;
+}
+.Meta-Head {
+  color: white;
+  font-size: 450%;
+  font-style: italic;
+  margin-left: 2%;
+}
+.card-Head {
+  color: white;
+}
+.Main-card-box {
+  display: flex;
+  justify-content: space-around;
+}
+.Main-container-Meta {
+  background-color: black;
+  background-image: url("https://cope.studio/images/Pipe%20+%20Moon%20Top%20Right.png");
+  background-repeat: no-repeat;
+  background-position: right;
+  overflow: auto;
+}
+.Meta-aside {
+  float: left;
+  width: 25%;
+}
+.Meta-para {
+  color: white;
+  margin-left: 1%;
+  font-size: 150%;
+}

@@ -1,0 +1,18 @@
+#Head {
+  font-family: cursive;
+}
+.card1-cont {
+  background-color: #2b2b2b;
+  padding: 4%;
+  margin: 2%;
+}
+.image-content {
+  display: flex;
+  align-items: center;
+}
+.image-content {
+  display: flex;
+  flex-direction: column;
+  color: white;
+  align-items: center;
+}
